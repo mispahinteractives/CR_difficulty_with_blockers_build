@@ -2,7 +2,7 @@
 
 {
 	"filename": "Blocker rope/Rope broken 01",
-	"frame": {"x":733,"y":1178,"w":248,"h":165},
+	"frame": {"x":1721,"y":514,"w":248,"h":165},
 	"rotated": false,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":248,"h":165},
@@ -10,7 +10,7 @@
 },
 {
 	"filename": "Blocker rope/Rope broken 02",
-	"frame": {"x":1926,"y":559,"w":88,"h":101},
+	"frame": {"x":2,"y":1239,"w":88,"h":101},
 	"rotated": false,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":88,"h":101},
@@ -18,7 +18,7 @@
 },
 {
 	"filename": "Blocker rope/Rope broken 03",
-	"frame": {"x":1804,"y":575,"w":119,"h":243},
+	"frame": {"x":712,"y":986,"w":119,"h":243},
 	"rotated": false,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":119,"h":243},
@@ -26,7 +26,7 @@
 },
 {
 	"filename": "Blocker rope/Rope broken 04",
-	"frame": {"x":1926,"y":748,"w":85,"h":68},
+	"frame": {"x":855,"y":909,"w":85,"h":68},
 	"rotated": false,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":85,"h":68},
@@ -34,7 +34,7 @@
 },
 {
 	"filename": "Blocker rope/Rope broken 05",
-	"frame": {"x":1385,"y":813,"w":190,"h":97},
+	"frame": {"x":93,"y":1239,"w":190,"h":97},
 	"rotated": false,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":190,"h":97},
@@ -42,7 +42,7 @@
 },
 {
 	"filename": "Blocker rope/Rope broken 06",
-	"frame": {"x":1142,"y":831,"w":202,"h":115},
+	"frame": {"x":1079,"y":1227,"w":202,"h":115},
 	"rotated": false,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":202,"h":115},
@@ -50,7 +50,7 @@
 },
 {
 	"filename": "Blocker rope/Rope broken 07",
-	"frame": {"x":1892,"y":2,"w":126,"h":234},
+	"frame": {"x":1909,"y":192,"w":126,"h":234},
 	"rotated": false,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":126,"h":234},
@@ -58,7 +58,7 @@
 },
 {
 	"filename": "Blocker rope/Rope broken 08",
-	"frame": {"x":1373,"y":1178,"w":108,"h":149},
+	"frame": {"x":1932,"y":1168,"w":108,"h":149},
 	"rotated": false,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":108,"h":149},
@@ -66,7 +66,7 @@
 },
 {
 	"filename": "Blocker rope/Rope broken 09",
-	"frame": {"x":1121,"y":1178,"w":249,"h":136},
+	"frame": {"x":1772,"y":872,"w":249,"h":136},
 	"rotated": false,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":249,"h":136},
@@ -74,7 +74,7 @@
 },
 {
 	"filename": "Blocker_lock and key/Blocker-Key",
-	"frame": {"x":1923,"y":239,"w":83,"h":156},
+	"frame": {"x":1846,"y":1168,"w":83,"h":156},
 	"rotated": false,
 	"trimmed": true,
 	"spriteSourceSize": {"x":0,"y":2,"w":83,"h":156},
@@ -82,7 +82,7 @@
 },
 {
 	"filename": "Blocker_lock and key/Blocker-Key_Shadow",
-	"frame": {"x":1836,"y":265,"w":84,"h":160},
+	"frame": {"x":1284,"y":1147,"w":84,"h":160},
 	"rotated": false,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":84,"h":160},
@@ -90,7 +90,7 @@
 },
 {
 	"filename": "Blocker_lock and key/Blocker_Lock-Door_closed",
-	"frame": {"x":1642,"y":1060,"w":148,"h":202},
+	"frame": {"x":1695,"y":1093,"w":148,"h":202},
 	"rotated": false,
 	"trimmed": true,
 	"spriteSourceSize": {"x":19,"y":29,"w":148,"h":202},
@@ -98,7 +98,7 @@
 },
 {
 	"filename": "Blocker_lock and key/Blocker_Lock-Door_Frame",
-	"frame": {"x":1335,"y":949,"w":143,"h":226},
+	"frame": {"x":1475,"y":872,"w":143,"h":226},
 	"rotated": false,
 	"trimmed": true,
 	"spriteSourceSize": {"x":21,"y":6,"w":143,"h":226},
@@ -106,7 +106,7 @@
 },
 {
 	"filename": "Blocker_lock and key/Blocker_Lock-Door_Frame_Glow",
-	"frame": {"x":1622,"y":575,"w":179,"h":261},
+	"frame": {"x":675,"y":341,"w":179,"h":261},
 	"rotated": false,
 	"trimmed": true,
 	"spriteSourceSize": {"x":1,"y":2,"w":179,"h":261},
@@ -114,7 +114,7 @@
 },
 {
 	"filename": "Blocker_lock and key/Blocker_Lock-Door_Open1",
-	"frame": {"x":1793,"y":839,"w":139,"h":224},
+	"frame": {"x":1553,"y":1101,"w":139,"h":224},
 	"rotated": false,
 	"trimmed": true,
 	"spriteSourceSize": {"x":23,"y":16,"w":139,"h":224},
@@ -122,7 +122,7 @@
 },
 {
 	"filename": "Blocker_lock and key/Blocker_Lock-Door_Open2",
-	"frame": {"x":1153,"y":949,"w":179,"h":226},
+	"frame": {"x":1371,"y":1107,"w":179,"h":226},
 	"rotated": false,
 	"trimmed": true,
 	"spriteSourceSize": {"x":2,"y":14,"w":179,"h":226},
@@ -130,7 +130,7 @@
 },
 {
 	"filename": "Blocker_lock and key/Blocker_Lock-Door_Open3",
-	"frame": {"x":1642,"y":839,"w":148,"h":218},
+	"frame": {"x":1621,"y":872,"w":148,"h":218},
 	"rotated": false,
 	"trimmed": true,
 	"spriteSourceSize": {"x":18,"y":16,"w":148,"h":218},
@@ -138,7 +138,7 @@
 },
 {
 	"filename": "Blocker_lock and key/Card_Blank",
-	"frame": {"x":1793,"y":1066,"w":140,"h":210},
+	"frame": {"x":712,"y":773,"w":140,"h":210},
 	"rotated": false,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":140,"h":210},
@@ -146,7 +146,7 @@
 },
 {
 	"filename": "Blocker_lock and key/Lock_Card_keyhole",
-	"frame": {"x":1884,"y":428,"w":128,"h":128},
+	"frame": {"x":1909,"y":61,"w":128,"h":128},
 	"rotated": false,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":128,"h":128},
@@ -154,7 +154,7 @@
 },
 {
 	"filename": "Congrats",
-	"frame": {"x":2,"y":992,"w":735,"h":170},
+	"frame": {"x":1270,"y":699,"w":735,"h":170},
 	"rotated": false,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":735,"h":170},
@@ -162,7 +162,7 @@
 },
 {
 	"filename": "favicon",
-	"frame": {"x":1484,"y":1148,"w":154,"h":154},
+	"frame": {"x":1846,"y":1011,"w":154,"h":154},
 	"rotated": false,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":154,"h":154},
@@ -170,7 +170,7 @@
 },
 {
 	"filename": "Generic VFX/Confetti particle_01",
-	"frame": {"x":1347,"y":831,"w":24,"h":28},
+	"frame": {"x":2013,"y":30,"w":24,"h":28},
 	"rotated": false,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":24,"h":28},
@@ -178,7 +178,7 @@
 },
 {
 	"filename": "Generic VFX/Confetti particle_02",
-	"frame": {"x":675,"y":588,"w":50,"h":47},
+	"frame": {"x":943,"y":909,"w":50,"h":47},
 	"rotated": false,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":50,"h":47},
@@ -186,7 +186,7 @@
 },
 {
 	"filename": "Generic VFX/Confetti particle_03",
-	"frame": {"x":675,"y":638,"w":15,"h":12},
+	"frame": {"x":1288,"y":623,"w":15,"h":12},
 	"rotated": false,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":15,"h":12},
@@ -194,7 +194,7 @@
 },
 {
 	"filename": "Generic VFX/Confetti particle_04",
-	"frame": {"x":1992,"y":983,"w":22,"h":30},
+	"frame": {"x":1270,"y":574,"w":22,"h":30},
 	"rotated": false,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":22,"h":30},
@@ -202,7 +202,7 @@
 },
 {
 	"filename": "Generic VFX/Confetti particle_05",
-	"frame": {"x":1884,"y":559,"w":20,"h":13},
+	"frame": {"x":1270,"y":607,"w":20,"h":13},
 	"rotated": false,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":20,"h":13},
@@ -210,7 +210,7 @@
 },
 {
 	"filename": "Generic VFX/Confetti particle_06",
-	"frame": {"x":1907,"y":559,"w":15,"h":13},
+	"frame": {"x":1270,"y":623,"w":15,"h":13},
 	"rotated": false,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":15,"h":13},
@@ -218,7 +218,7 @@
 },
 {
 	"filename": "Generic VFX/Confetti particle_07",
-	"frame": {"x":1484,"y":1305,"w":48,"h":38},
+	"frame": {"x":996,"y":909,"w":48,"h":38},
 	"rotated": false,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":48,"h":38},
@@ -226,7 +226,7 @@
 },
 {
 	"filename": "Generic VFX/glow 02",
-	"frame": {"x":675,"y":2,"w":707,"h":583},
+	"frame": {"x":2,"y":653,"w":707,"h":583},
 	"rotated": false,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":707,"h":583},
@@ -242,7 +242,7 @@
 },
 {
 	"filename": "Generic VFX/gold star",
-	"frame": {"x":1578,"y":813,"w":41,"h":40},
+	"frame": {"x":675,"y":605,"w":41,"h":40},
 	"rotated": false,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":41,"h":40},
@@ -250,7 +250,7 @@
 },
 {
 	"filename": "Generic VFX/Particle dot",
-	"frame": {"x":1836,"y":428,"w":32,"h":32},
+	"frame": {"x":1270,"y":539,"w":32,"h":32},
 	"rotated": false,
 	"trimmed": true,
 	"spriteSourceSize": {"x":0,"y":0,"w":32,"h":32},
@@ -258,7 +258,7 @@
 },
 {
 	"filename": "Generic VFX/pink dot",
-	"frame": {"x":1121,"y":1317,"w":25,"h":25},
+	"frame": {"x":2013,"y":2,"w":25,"h":25},
 	"rotated": false,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":25,"h":25},
@@ -266,7 +266,7 @@
 },
 {
 	"filename": "Generic VFX/Pink sparkle",
-	"frame": {"x":1935,"y":983,"w":54,"h":58},
+	"frame": {"x":1972,"y":514,"w":54,"h":58},
 	"rotated": false,
 	"trimmed": true,
 	"spriteSourceSize": {"x":3,"y":2,"w":54,"h":58},
@@ -274,7 +274,7 @@
 },
 {
 	"filename": "Generic VFX/Single sparkle",
-	"frame": {"x":1935,"y":819,"w":77,"h":81},
+	"frame": {"x":999,"y":1229,"w":77,"h":81},
 	"rotated": false,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":77,"h":81},
@@ -282,7 +282,7 @@
 },
 {
 	"filename": "Generic VFX/star outline",
-	"frame": {"x":1926,"y":663,"w":85,"h":82},
+	"frame": {"x":1308,"y":341,"w":85,"h":82},
 	"rotated": false,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":85,"h":82},
@@ -290,7 +290,7 @@
 },
 {
 	"filename": "Generic VFX/White sparkle",
-	"frame": {"x":1641,"y":1265,"w":52,"h":56},
+	"frame": {"x":1972,"y":632,"w":52,"h":56},
 	"rotated": false,
 	"trimmed": true,
 	"spriteSourceSize": {"x":3,"y":2,"w":52,"h":56},
@@ -298,7 +298,7 @@
 },
 {
 	"filename": "Generic VFX/white star",
-	"frame": {"x":1935,"y":903,"w":81,"h":77},
+	"frame": {"x":1077,"y":1147,"w":81,"h":77},
 	"rotated": false,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":81,"h":77},
@@ -306,7 +306,7 @@
 },
 {
 	"filename": "Generic VFX/Yellow sparkle",
-	"frame": {"x":1578,"y":856,"w":54,"h":54},
+	"frame": {"x":1972,"y":575,"w":54,"h":54},
 	"rotated": false,
 	"trimmed": true,
 	"spriteSourceSize": {"x":2,"y":2,"w":54,"h":54},
@@ -314,7 +314,7 @@
 },
 {
 	"filename": "Hand",
-	"frame": {"x":984,"y":1178,"w":134,"h":165},
+	"frame": {"x":719,"y":605,"w":134,"h":165},
 	"rotated": false,
 	"trimmed": true,
 	"spriteSourceSize": {"x":9,"y":7,"w":134,"h":165},
@@ -322,7 +322,7 @@
 },
 {
 	"filename": "info",
-	"frame": {"x":1142,"y":588,"w":240,"h":240},
+	"frame": {"x":834,"y":986,"w":240,"h":240},
 	"rotated": false,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":240,"h":240},
@@ -330,7 +330,7 @@
 },
 {
 	"filename": "logo_ec",
-	"frame": {"x":1385,"y":2,"w":504,"h":260},
+	"frame": {"x":1402,"y":54,"w":504,"h":260},
 	"rotated": false,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":504,"h":260},
@@ -338,7 +338,7 @@
 },
 {
 	"filename": "out of moves",
-	"frame": {"x":2,"y":1250,"w":530,"h":91},
+	"frame": {"x":286,"y":1239,"w":530,"h":91},
 	"rotated": false,
 	"trimmed": true,
 	"spriteSourceSize": {"x":0,"y":0,"w":530,"h":91},
@@ -346,7 +346,7 @@
 },
 {
 	"filename": "Play more levels",
-	"frame": {"x":2,"y":1165,"w":728,"h":82},
+	"frame": {"x":1308,"y":429,"w":728,"h":82},
 	"rotated": false,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":728,"h":82},
@@ -354,7 +354,7 @@
 },
 {
 	"filename": "Play now",
-	"frame": {"x":1385,"y":265,"w":448,"h":195},
+	"frame": {"x":857,"y":341,"w":448,"h":195},
 	"rotated": false,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":448,"h":195},
@@ -362,7 +362,7 @@
 },
 {
 	"filename": "Rope broken",
-	"frame": {"x":1385,"y":575,"w":234,"h":235},
+	"frame": {"x":1077,"y":909,"w":234,"h":235},
 	"rotated": false,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":234,"h":235},
@@ -370,7 +370,7 @@
 },
 {
 	"filename": "Rope",
-	"frame": {"x":1481,"y":913,"w":158,"h":232},
+	"frame": {"x":1314,"y":872,"w":158,"h":232},
 	"rotated": false,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":158,"h":232},
@@ -378,7 +378,7 @@
 },
 {
 	"filename": "Solitaire Logo",
-	"frame": {"x":535,"y":1250,"w":177,"h":91},
+	"frame": {"x":819,"y":1232,"w":177,"h":91},
 	"rotated": false,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":177,"h":91},
@@ -386,15 +386,23 @@
 },
 {
 	"filename": "sparkles",
-	"frame": {"x":2,"y":653,"w":724,"h":336},
+	"frame": {"x":675,"y":2,"w":724,"h":336},
 	"rotated": false,
 	"trimmed": true,
 	"spriteSourceSize": {"x":21,"y":3,"w":724,"h":336},
 	"sourceSize": {"w":764,"h":574}
 },
 {
+	"filename": "Swipe motion",
+	"frame": {"x":1402,"y":2,"w":608,"h":49},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":608,"h":49},
+	"sourceSize": {"w":608,"h":49}
+},
+{
 	"filename": "Talon_base_Easy",
-	"frame": {"x":729,"y":588,"w":410,"h":182},
+	"frame": {"x":1308,"y":514,"w":410,"h":182},
 	"rotated": false,
 	"trimmed": true,
 	"spriteSourceSize": {"x":1,"y":2,"w":410,"h":182},
@@ -402,7 +410,7 @@
 },
 {
 	"filename": "Talon_base_Hard",
-	"frame": {"x":729,"y":773,"w":410,"h":182},
+	"frame": {"x":857,"y":539,"w":410,"h":182},
 	"rotated": false,
 	"trimmed": true,
 	"spriteSourceSize": {"x":1,"y":2,"w":410,"h":182},
@@ -410,7 +418,7 @@
 },
 {
 	"filename": "Talon_base_Medium",
-	"frame": {"x":740,"y":958,"w":410,"h":182},
+	"frame": {"x":856,"y":724,"w":410,"h":182},
 	"rotated": false,
 	"trimmed": true,
 	"spriteSourceSize": {"x":1,"y":2,"w":410,"h":182},
@@ -418,7 +426,7 @@
 },
 {
 	"filename": "Try again",
-	"frame": {"x":1385,"y":463,"w":496,"h":109},
+	"frame": {"x":1402,"y":317,"w":496,"h":109},
 	"rotated": false,
 	"trimmed": true,
 	"spriteSourceSize": {"x":0,"y":2,"w":496,"h":109},
@@ -429,8 +437,8 @@
 	"version": "1.0",
 	"image": "sheet.png",
 	"format": "RGBA8888",
-	"size": {"w":2020,"h":1345},
+	"size": {"w":2042,"h":1344},
 	"scale": "1",
-	"smartupdate": "$TexturePacker:SmartUpdate:48d1eca4da77084f90a003022254659e:0df49df7524d9dfc7968c7be9a0c6f09:9c44ecd7e9a522007eaff2949095bc1d$"
+	"smartupdate": "$TexturePacker:SmartUpdate:7c573b4edba2d9cc82522f3e2a050f25:ff4ae1746804346d9ed571ef49bfca22:9c44ecd7e9a522007eaff2949095bc1d$"
 }
 }

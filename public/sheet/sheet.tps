@@ -771,6 +771,21 @@
                 <key>scale9FromFile</key>
                 <false/>
             </struct>
+            <key type="filename">../assets/Swipe motion.png</key>
+            <struct type="IndividualSpriteSettings">
+                <key>pivotPoint</key>
+                <point_f>0.5,0.5</point_f>
+                <key>spriteScale</key>
+                <double>1</double>
+                <key>scale9Enabled</key>
+                <false/>
+                <key>scale9Borders</key>
+                <rect>152,12,304,25</rect>
+                <key>scale9Paddings</key>
+                <rect>152,12,304,25</rect>
+                <key>scale9FromFile</key>
+                <false/>
+            </struct>
             <key type="filename">../assets/Talon_base_Easy.png</key>
             <key type="filename">../assets/Talon_base_Hard.png</key>
             <key type="filename">../assets/Talon_base_Medium.png</key>
